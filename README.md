@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PiyushTripathi1692521198
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning in 11th class and also learning about JvaScript
+- 🌱 I’m currently im in 11th class and also learning about JvaScript 
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me ...
 - ⚡ Fun fact: im also become a Hacker
 
 <!---
